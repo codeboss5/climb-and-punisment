@@ -21,7 +21,7 @@ recent_posts_number = 3
 site_logo = ""
 text_color = ""
 [[params.ananke_socials]]
-name = "email"
+name = "Email"
 url = "mailto:kylewarner@mailstack.com"
 [sitemap]
 changefreq = "monthly"
