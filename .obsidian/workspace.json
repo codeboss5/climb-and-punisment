@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/Humor/a-cowboy-named-bud.md",
+                "file": "content/en/v5/video.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/Humor/a-cowboy-named-bud.md",
+                "file": "content/en/v5/video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/Humor/a-cowboy-named-bud.md",
+                "file": "content/en/v5/video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/Humor/a-cowboy-named-bud.md"
+                "file": "content/en/v5/video.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
+    "content/en/v1/a-cowboy-named-bud.md",
+    "content/en/v6",
     "content/en/_index.md",
-    "content/en/Humor/a-cowboy-named-bud.md",
     "static/uploads/images-1.jpg",
     "static/uploads/2023-01-09-10_37_56-window.jpg",
     "static/uploads/2022-12-13-12_38_08-document1-word.png",
@@ -168,7 +169,7 @@
     "static/uploads/images.jpg",
     "static/uploads/hippo-260nw-200050715.jpg",
     "static/uploads/images.png",
-    "content/en/Videos/video.md",
+    "content/en/v5/video.md",
     "content/en/Humor/the-common-cold.md",
     "static/uploads/14-year-old-dog-abbey.pdf",
     "Untitled.canvas",
@@ -186,7 +187,7 @@
     "content/en/Short Stories/the-storm.md",
     "content/en/Short Stories/the-salvation-of-billy-baxter.md",
     "content/en/Short Stories/running-in-the-rain.md",
-    "content/en/Stories/a-toast-to-toasters-everywhere.md",
+    "content/en/v3/a-toast-to-toasters-everywhere.md",
     "content/en/Short Stories/mexican-fisherman-meets-harvard-mba.md",
     "uploads/christmas_stories.pdf.md",
     "content/en/Short Stories/latkes-and-applesauce.md",
@@ -196,7 +197,6 @@
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
-    "Untitled",
     "Templates",
     "New folder"
   ]
