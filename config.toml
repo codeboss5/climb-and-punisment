@@ -7,10 +7,10 @@ googleAnalytics = ""
 languageCode = "en-us"
 resourceDir = "../resources"
 theme = "ananke"
-title = "Warner Share Point"
+title = "Climb and Punishment"
 [languages.en]
 contentDir = "content/en"
-title = "Warner Share Point"
+title = "Climb and Punishment"
 weight = 1
 [params]
 author = ""
@@ -21,7 +21,7 @@ recent_posts_number = 3
 site_logo = ""
 text_color = ""
 [[params.ananke_socials]]
-name = "twitter"
+name = "email"
 url = "mailto:kylewarner@mailstack.com"
 [sitemap]
 changefreq = "monthly"
