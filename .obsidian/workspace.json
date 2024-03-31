@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/Humor/the-common-cold.md",
+                "file": "content/en/Humor/a-cowboy-named-bud.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/Humor/the-common-cold.md",
+                "file": "content/en/Humor/a-cowboy-named-bud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/Humor/the-common-cold.md",
+                "file": "content/en/Humor/a-cowboy-named-bud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/Humor/the-common-cold.md"
+                "file": "content/en/Humor/a-cowboy-named-bud.md"
               }
             }
           }
@@ -157,7 +156,21 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
+    "static/uploads/images-1.jpg",
+    "content/en/Humor/a-cowboy-named-bud.md",
+    "static/uploads/2023-01-09-10_37_56-window.jpg",
+    "static/uploads/2022-12-13-12_38_08-document1-word.png",
+    "static/uploads/953614944-jpg-0.jpg",
+    "static/uploads/download.jpg",
+    "static/uploads/download-1.jpg",
+    "static/uploads/download-2.jpg",
+    "static/uploads/images.jpg",
+    "static/uploads/hippo-260nw-200050715.jpg",
+    "static/uploads/images.png",
+    "content/en/_index.md",
+    "content/en/Videos/video.md",
     "content/en/Humor/the-common-cold.md",
+    "static/uploads/14-year-old-dog-abbey.pdf",
     "Untitled.canvas",
     "content/en/Humor/quotes.md",
     "content/en/Humor/power-of-charisma.md",
@@ -165,7 +178,6 @@
     "content/en/Humor/i-cnduo-t-bvleiee.md",
     "content/en/Humor/ha-ha-ha-bird-jokes-ha-ha-ha.md",
     "content/en/Humor/birthday-jokes.md",
-    "content/en/Humor/a-cowboy-named-bud.md",
     "content/en/Humor/the-eighteen-bottles.md",
     "content/en/Poems/the-old-kitchen-table.md",
     "content/en/Poems/poem silly.md",
@@ -181,9 +193,6 @@
     "content/en/Short Stories/how-babemba-tribe-forgives.md",
     "content/en/Short Stories/God and St Francis discuss lawns.md",
     "content/en/Short Stories/four-boys-and-the-test.md",
-    "content/en/Short Stories/encouragement.md",
-    "content/en/Short Stories/desire-to-learn.md",
-    "content/en/Short Stories/band-aid-for-a-broken-heart.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
