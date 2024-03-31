@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/_index.md",
+                "file": "content/en/Humor/a-cowboy-named-bud.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/_index.md",
+                "file": "content/en/Humor/a-cowboy-named-bud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/_index.md",
+                "file": "content/en/Humor/a-cowboy-named-bud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/_index.md"
+                "file": "content/en/Humor/a-cowboy-named-bud.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
-    "content/en/Humor/a-cowboy-named-bud.md",
     "content/en/_index.md",
+    "content/en/Humor/a-cowboy-named-bud.md",
     "static/uploads/images-1.jpg",
     "static/uploads/2023-01-09-10_37_56-window.jpg",
     "static/uploads/2022-12-13-12_38_08-document1-word.png",
