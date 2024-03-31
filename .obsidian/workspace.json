@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/en/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/en/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/en/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archetypes/default.md"
+                "file": "content/en/_index.md"
               }
             }
           }
@@ -156,14 +156,16 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
-    "content/en/_index.md",
     "static/uploads/main.jpg",
+    "static/uploads/images.png",
+    "static/uploads/2022-12-13-12_38_08-document1-word.png",
+    "archetypes/default.md",
+    "content/en/_index.md",
     "content/en/v5/video.md",
     "content/en/v1/a-cowboy-named-bud.md",
     "content/en/v6",
     "static/uploads/images-1.jpg",
     "static/uploads/2023-01-09-10_37_56-window.jpg",
-    "static/uploads/2022-12-13-12_38_08-document1-word.png",
     "static/uploads/953614944-jpg-0.jpg",
     "static/uploads/download.jpg",
     "static/uploads/download-1.jpg",
@@ -193,7 +195,6 @@
     "content/en/Short Stories/latkes-and-applesauce.md",
     "content/en/Short Stories/how-babemba-tribe-forgives.md",
     "content/en/Short Stories/God and St Francis discuss lawns.md",
-    "content/en/Short Stories/four-boys-and-the-test.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
