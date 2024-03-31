@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/v1/test.md",
+                "file": "content/en/v3/Katie.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/v1/test.md",
+                "file": "content/en/v3/Katie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/v1/test.md",
+                "file": "content/en/v3/Katie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/v1/test.md"
+                "file": "content/en/v3/Katie.md"
               }
             }
           }
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,13 +153,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e1bd2cf25d8c86f",
+  "active": "207191a8f5179b32",
   "lastOpenFiles": [
+    "content/en/v1/test.md",
+    "content/en/v3/Katie.md",
+    "Templates/post.md",
+    "static/uploads/Katie.jpg",
     "content/en/v6",
     "content/en/v0",
-    "Templates/post.md",
     "themes/ananke/archetypes/default.md",
-    "content/en/v1/test.md",
     "static/uploads/2022-12-13-12_38_08-document1-word.png",
     "content/en/_index.md",
     "archetypes/default.md",
@@ -175,7 +176,6 @@
     "static/uploads/953614944-jpg-0.jpg",
     "static/uploads/download.jpg",
     "static/uploads/download-1.jpg",
-    "static/uploads/download-2.jpg",
     "content/en/Humor/the-common-cold.md",
     "static/uploads/14-year-old-dog-abbey.pdf",
     "content/en/Humor/quotes.md",
