@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/v5/video.md",
+                "file": "content/en/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/v5/video.md",
+                "file": "content/en/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/v5/video.md",
+                "file": "content/en/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/v5/video.md"
+                "file": "content/en/_index.md"
               }
             }
           }
@@ -156,6 +156,8 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
+    "static/uploads/main.jpg",
+    "content/en/v5/video.md",
     "content/en/v1/a-cowboy-named-bud.md",
     "content/en/v6",
     "content/en/_index.md",
@@ -169,7 +171,6 @@
     "static/uploads/images.jpg",
     "static/uploads/hippo-260nw-200050715.jpg",
     "static/uploads/images.png",
-    "content/en/v5/video.md",
     "content/en/Humor/the-common-cold.md",
     "static/uploads/14-year-old-dog-abbey.pdf",
     "Untitled.canvas",
