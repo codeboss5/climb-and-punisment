@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "207191a8f5179b32",
+  "active": "d09fc41278e4d877",
   "lastOpenFiles": [
     "uploads/katie.md",
     "content/en/v3/Katie.md",
