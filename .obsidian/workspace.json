@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/v3/Katie.md",
+                "file": "content/en/v3/The Circle of Life.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/v3/Katie.md",
+                "file": "content/en/v3/The Circle of Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/v3/Katie.md",
+                "file": "content/en/v3/The Circle of Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/v3/Katie.md"
+                "file": "content/en/v3/The Circle of Life.md"
               }
             }
           }
@@ -153,10 +153,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "207191a8f5179b32",
+  "active": "4e1bd2cf25d8c86f",
   "lastOpenFiles": [
-    "content/en/v1/test.md",
     "content/en/v3/Katie.md",
+    "content/en/v3/The Circle of Life.md",
+    "content/en/v1/test.md",
     "Templates/post.md",
     "static/uploads/Katie.jpg",
     "content/en/v6",
@@ -195,7 +196,6 @@
     "content/en/v3/a-toast-to-toasters-everywhere.md",
     "content/en/Short Stories/mexican-fisherman-meets-harvard-mba.md",
     "uploads/christmas_stories.pdf.md",
-    "content/en/Short Stories/latkes-and-applesauce.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
