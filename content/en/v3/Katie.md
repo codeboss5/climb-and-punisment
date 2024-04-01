@@ -1,6 +1,6 @@
 +++
 date = 2022-03-11T05:00:00Z
-location = "Jacobs Pillow"
+description = "Jacobs Pillow"
 disable_share = true
 featured_image = "/uploads/Katie.jpg"
 tags = ["V3s"]
