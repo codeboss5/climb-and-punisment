@@ -11,7 +11,9 @@ title = "Katie"
 +++
 
 
-![image](/uploads/Katie.jpg)
+![image](/uploads/katie v3.jpg)
+![image](/uploads/katie top v3.jpg)
+
 
 Fairly challenging the first couple times. Gets a little easier after you have succeeded once.
 
