@@ -13,7 +13,7 @@ title = "The Circle of Life"
 
 ![image](/uploads/Katie.jpg)
 
-Fairly challenging the first couple times. Gets a little easier after you have succeeded once.
+An accent up Jacobs Ladder with a downclimb from Katie. must step onto the ground. Do not jump.
 
 Orange = out of bounds
 
