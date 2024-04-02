@@ -17,4 +17,4 @@ Red = out of bounds
 
 ![image](/uploads/the-beast-maker-v4.jpg)
 
-Beastmaker too easy? Spice things up with a little "out and back". Run this baby both ways with no rest between laps
+Beast Maker too easy? Spice things up with a little "out and back". Run this baby both ways with no rest between laps
