@@ -9,6 +9,7 @@ title = "The Beast Maker 2"
 
 
 +++
+{{< GwYQfBGfafc >}}
 Green = hand holds
 
 Purple = foot holds
