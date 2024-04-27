@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/v6/Untitled.md",
+                "file": "content/en/v6/The Beast Maker 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/v6/Untitled.md",
+                "file": "content/en/v6/The Beast Maker 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/v6/Untitled.md",
+                "file": "content/en/v6/The Beast Maker 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/v6/Untitled.md"
+                "file": "content/en/v6/The Beast Maker 2.md"
               }
             }
           }
@@ -156,10 +156,10 @@
   },
   "active": "207191a8f5179b32",
   "lastOpenFiles": [
+    "content/en/v6/Untitled.md",
     "Pasted image 20240427160459.png",
     "Pasted image 20240427160458.png",
     "content/en/v6/The Beast Maker 2.md",
-    "content/en/v6/Untitled.md",
     "content/en/v4/The Beast Maker.md",
     "content/en/v3/The Circle of Life.md",
     "content/en/v3/Katie.md",
@@ -173,7 +173,6 @@
     "static/uploads/jacobs-ladder-top-v2.jpg",
     "static/uploads/jacobs-ladder-v2.jpg",
     "static/uploads/katie-top-v3.jpg",
-    "static/uploads/katie-v3.jpg",
     "uploads/katie.md",
     "content/en/v1/test.md",
     "Templates/post.md",
