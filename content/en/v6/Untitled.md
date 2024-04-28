@@ -1,3 +1,12 @@
++++
+date = 2022-03-11T05:00:00Z
+description = "Jacobs Pillow"
+disable_share = true
+featured_image = "/uploads/the-beast-maker-v4.jpg"
+tags = ["V6"]
+title = "test"
++++
+
 | hello | SERVER ROOM 72-PORT FIBER PATCH PANEL |               |                        |                       |                   |                        |                       |                    |                         |                    |                     |       |
 | ----- | ------------------------------------- | ------------- | ---------------------- | --------------------- | ----------------- | ---------------------- | --------------------- | ------------------ | ----------------------- | ------------------ | ------------------- | ----- |
 |       | Old Shop 6-strand                     | Rhon 6-strand | Hussey-Hill 6-strand   | Mtn View 4-strand     | New Shop 8-strand | Parkview 2nd Floor     | Parkview 1st    Floor | Parkview 2nd Floor | Parkview 2nd Floor      | Parkview 2nd Floor | Water Tower         |       |
