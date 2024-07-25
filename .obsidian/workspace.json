@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/v6/The Beast Maker 2.md",
+                "file": "content/en/5.11a Trad/The Trashcan.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/v6/The Beast Maker 2.md",
+                "file": "content/en/5.11a Trad/The Trashcan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/v6/The Beast Maker 2.md",
+                "file": "content/en/5.11a Trad/The Trashcan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/v6/The Beast Maker 2.md"
+                "file": "content/en/5.11a Trad/The Trashcan.md"
               }
             }
           }
@@ -154,10 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "207191a8f5179b32",
+  "active": "4e1bd2cf25d8c86f",
   "lastOpenFiles": [
-    "content/en/v6/Untitled.md",
+    "content/en/5.11a Trad/The Trashcan/Untitled.md",
+    "content/en/5.11a Trad/The Trashcan.md",
     "content/en/v6/The Beast Maker 2.md",
+    "content/en/5.11a Trad/The Trashcan",
+    "content/en/5.11a Trad",
+    "content/en/v6/Untitled.md",
     "Pasted image 20240427160459.png",
     "Pasted image 20240427160458.png",
     "content/en/v4/The Beast Maker.md",
@@ -195,11 +199,9 @@
     "content/en/Humor/the-eighteen-bottles.md",
     "content/en/Poems/the-old-kitchen-table.md",
     "content/en/Poems/poem silly.md",
-    "content/en/Short Stories/we-don-t-have-lots-lots-friends....just-good-friends..md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
-    "Templates",
-    "New folder"
+    "Templates"
   ]
 }
