@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a136d0a76572ed58",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e1bd2cf25d8c86f",
+  "active": "a136d0a76572ed58",
   "lastOpenFiles": [
     "content/en/5.11a Trad/The Trashcan/Untitled.md",
     "content/en/5.11a Trad/The Trashcan.md",
