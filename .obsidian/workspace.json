@@ -11,15 +11,28 @@
             "id": "207191a8f5179b32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/en/5.11a Trad/The Trashcan.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Pasted image 20240427160459.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240427160459"
+            }
+          },
+          {
+            "id": "b3ed6535678ceace",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +52,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +69,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -70,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/5.11a Trad/The Trashcan.md",
+                "file": "Pasted image 20240427160459.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +122,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pasted image 20240427160459"
             }
           },
           {
@@ -110,10 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/5.11a Trad/The Trashcan.md",
+                "file": "Pasted image 20240427160459.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pasted image 20240427160459"
             }
           },
           {
@@ -124,7 +149,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -133,8 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/5.11a Trad/The Trashcan.md"
-              }
+                "file": "Pasted image 20240427160459.png"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pasted image 20240427160459"
             }
           }
         ]
@@ -154,16 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "207191a8f5179b32",
+  "active": "b3ed6535678ceace",
   "lastOpenFiles": [
-    "content/en/5.11a Trad/The Trashcan/Untitled.md",
+    "Pasted image 20240427160458.png",
     "content/en/5.11a Trad/The Trashcan.md",
+    "content/en/5.11a Trad/The Trashcan/Untitled.md",
     "content/en/v6/The Beast Maker 2.md",
     "content/en/5.11a Trad/The Trashcan",
     "content/en/5.11a Trad",
     "content/en/v6/Untitled.md",
     "Pasted image 20240427160459.png",
-    "Pasted image 20240427160458.png",
     "content/en/v4/The Beast Maker.md",
     "content/en/v3/The Circle of Life.md",
     "content/en/v3/Katie.md",
@@ -198,7 +227,6 @@
     "content/en/Humor/birthday-jokes.md",
     "content/en/Humor/the-eighteen-bottles.md",
     "content/en/Poems/the-old-kitchen-table.md",
-    "content/en/Poems/poem silly.md",
     "uploads",
     "static/uploads/god-and-st-francis-discuss-lawns.pdf",
     "static/uploads/God and St Francis discuss lawns.pdf",
