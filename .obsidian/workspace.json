@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a9669d93552e9b49",
+        "id": "7b2c108fc3f38b22",
         "type": "tabs",
         "children": [
           {
-            "id": "207191a8f5179b32",
+            "id": "0b7f3a21efe8b40a",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240427160459.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240427160459"
-            }
-          },
-          {
-            "id": "b3ed6535678ceace",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3ed6535678ceace",
+  "active": "0b7f3a21efe8b40a",
   "lastOpenFiles": [
     "Pasted image 20240427160458.png",
     "content/en/5.11a Trad/The Trashcan.md",
